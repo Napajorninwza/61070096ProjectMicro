@@ -10,4 +10,7 @@
   <br> sudo apt-get install libhdf5-dev libhdf5-serial-dev libatlas-base-dev libjasper-dev  libqtgui4  libqt4-test </br>
 <h2> 📟Code ที่ใช้ Run </h2>
 <img src="https://user-images.githubusercontent.com/41178201/119372887-06f0b080-bce2-11eb-8231-4f9e63e523ba.jpg"height="500">
-<h2> วิธีถ่ายรูป </h2>
+<h2> 👨วิธีถ่ายรูป </h2>
+ใส่คำสั่ง
+<img src="https://user-images.githubusercontent.com/41178201/119373428-9c8c4000-bce2-11eb-9e1d-89f7d5c2ff35.jpg"height="30">
+เมื่อใส่คำสั่งกล้องจะทำการถ่ายรูปทันที
