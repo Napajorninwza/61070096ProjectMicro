@@ -9,3 +9,5 @@
   <br> sudo apt-get install libcblas-dev libhdf5-dev libhdf5-serial-dev libatlas-base-dev libjasper-dev  libqtgui4  libqt4-test </br>
   <br> sudo apt-get install libhdf5-dev libhdf5-serial-dev libatlas-base-dev libjasper-dev  libqtgui4  libqt4-test </br>
 <h2> 📟Code ที่ใช้ Run </h2>
+<img src="https://user-images.githubusercontent.com/41178201/119372887-06f0b080-bce2-11eb-8231-4f9e63e523ba.jpg"height="500">
+<h2> วิธีถ่ายรูป </h2>
