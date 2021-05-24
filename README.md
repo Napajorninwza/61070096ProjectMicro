@@ -17,3 +17,4 @@
 และจะได้รูปออกมา
 <img src="https://user-images.githubusercontent.com/41178201/119374100-5d122380-bce3-11eb-894a-3888235f1fb0.jpg"height="400">
 และจำนวนใบหน้าที่พบ
+<img src="https://user-images.githubusercontent.com/41178201/119374694-13760880-bce4-11eb-9057-bd899b981eac.jpg"height="60">
